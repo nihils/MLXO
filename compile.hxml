@@ -1,0 +1,5 @@
+-cp src
+-main MLXO
+-swf-version 10
+-swf9 deploy/out.swf
+-swf-header 800:600:30:FFFFFF
